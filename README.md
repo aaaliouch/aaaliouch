@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdessamad Aaliouch</h1>
-<h3 align="center">Student at 1337, um6p🌟.</h3>
+<h3 align="center">Future Student at 1337, Um6p🌟.</h3>
 
 <br>
 
@@ -20,6 +20,23 @@
 
 <br>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdessamad-aaliouch/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="abdessamad-aaliouch" height="30" width="40" /></a>
+  <a href="https://fb.com/a.aaliouch" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="abdessamad-aaliouch" height="30" width="40" /></a>
+  <a href="https://instagram.com/a.aaliouch" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="abdessamad-aaliouch" height="30" width="40" /></a>
+ <a href="https://twitter.com/a_aliouch" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      alt="abdessamad-aaliouch" height="30" width="40" /></a>
+</p>
+
+<br>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -39,22 +56,23 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=aaaliouch&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="aaaliouch" 
-    bg_color=#808080/></p>
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/aaaliouch">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaaliouch&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaaliouch&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+  
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aaaliouch&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="aaaliouch" /></p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+ 
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaaliouch&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="aaaliouch" /></p>
-      
-<p align="left"> <a href="https://x.com/a_aliouch" target="blank"><img
-      src="https://img.shields.io/x/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+   
 [aaaliouch](https://github.com/aaaliouch)
