@@ -31,8 +31,8 @@
   <a href="https://instagram.com/a.aaliouch" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="abdessamad-aaliouch" height="30" width="40" /></a>
- <a href="https://x.com/a.aaliouch" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg"
+ <a href="https://x.com/a_aliouch" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="abdessamad-aaliouch" height="30" width="40" /></a>
 </p>
 
@@ -91,7 +91,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaaliouch&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="aaaliouch" /></p>
       
-<p align="left"> <a href="https://x.com/a.aaliouch" target="blank"><img
+<p align="left"> <a href="https://x.com/a_aliouch" target="blank"><img
       src="https://img.shields.io/x/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 [aaaliouch](https://github.com/aaaliouch)
