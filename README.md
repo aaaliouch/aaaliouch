@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdessamad </h1>
-<h3 align="center">Future Student at 1337, Um6p🌟.</h3>
+<h3 align="center">Student at 1337, Um6p🌟.</h3>
 
 <br>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abdessamadaaliouch@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact :- Food and Music🎵 are the live.
 
 <br>
 
@@ -19,12 +19,15 @@
   <a href="https://www.linkedin.com/in/abdessamad-aaliouch/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="abdessamad-aaliouch" height="30" width="40" /></a>
+  
   <a href="https://fb.com/a.aaliouch" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="abdessamad-aaliouch" height="30" width="40" /></a>
+      
   <a href="https://instagram.com/a.aaliouch" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="abdessamad-aaliouch" height="30" width="40" /></a>
+      
  <a href="https://twitter.com/a_aliouch" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="abdessamad-aaliouch" height="30" width="40" /></a>
